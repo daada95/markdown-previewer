@@ -29,3 +29,23 @@ body {
   background-color: #E1F2FB;
   border: 1px solid #68beeb;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    width: 95%;
+  }
+  #wrapper {
+    width: 95%;
+  }
+  #editor {
+    width: 90%;
+  }
+  #preview {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+  img {
+    max-width: 300px;
+  }
+}
