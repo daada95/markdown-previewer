@@ -1,6 +1,6 @@
 This is a minimalistic React app that allows you to write your markdown in the text area and preview it below.
 
-====================================================================================================
+=================================
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
