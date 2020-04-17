@@ -1,0 +1,31 @@
+body {
+  background-color: #F1F9F9;
+}
+
+#wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 70vw;
+  height: auto;
+  margin: auto;
+}
+
+#editor {
+  position: relative;
+  top: 5vh;
+  width: 80%;
+  height: auto;
+  background-color: #F3DFE3;
+  border: 1px solid #E9B2BC;
+}
+
+#preview {
+  position: relative;
+  top: 10vh;
+  width: 81%;
+  height: auto;
+  background-color: #E1F2FB;
+  border: 1px solid #68beeb;
+}
